@@ -1,0 +1,43 @@
+﻿  LockFreeTest.cpp
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(87,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(102,12): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LONG64'입니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(102,12): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(102,12): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(102,12): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(103,12): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LONG64'입니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(103,12): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(103,12): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(103,12): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(108,12): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LONG64'입니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(108,12): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(108,12): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(108,12): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(109,12): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LONG64'입니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(109,12): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(109,12): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(109,12): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(210,15): warning C4101: 'aaa' :참조되지 않은 지역 변수입니다.
+C:\Users\PC\Desktop\LockFree\LockFree\CLockFreeQueue.h(216,17): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\CLockFreeQueue.h(152): message : 클래스 템플릿 멤버 함수 'int QueueT<st_TEST_DATA *>::Dequeue(T &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=st_TEST_DATA *
+          ]
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(321): message : 컴파일되는 함수 템플릿 인스턴스화 'int QueueT<st_TEST_DATA *>::Dequeue(T &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=st_TEST_DATA *
+          ]
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(14): message : 컴파일되는 클래스 템플릿 인스턴스화 'QueueT<st_TEST_DATA *>'에 대한 참조를 확인하세요.
+C:\Users\PC\Desktop\LockFree\LockFree\CLockFreeQueue.h(47,9): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\PC\Desktop\LockFree\LockFree\CLockFreeQueue.h(38): message : 클래스 템플릿 멤버 함수 'void QueueT<st_TEST_DATA *>::Enqueue(T)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=st_TEST_DATA *
+          ]
+C:\Users\PC\Desktop\LockFree\LockFree\LockFreeTest.cpp(312): message : 컴파일되는 함수 템플릿 인스턴스화 'void QueueT<st_TEST_DATA *>::Enqueue(T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=st_TEST_DATA *
+          ]
+  LockFree.vcxproj -> C:\Users\PC\Desktop\LockFree\x64\Debug\LockFree.exe
